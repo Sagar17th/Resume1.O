@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    width: 20;
+    height: 50;
+}
+#img1{
+    display: block;
+    margin-left: 50%;
+    margin-right: 50%;
+}
